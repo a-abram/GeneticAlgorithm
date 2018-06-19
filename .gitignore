@@ -1,0 +1,4 @@
+.gitignore
+Temp/ 
+.venv/
+*pyc
