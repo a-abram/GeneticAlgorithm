@@ -22,4 +22,4 @@
 `selection` - скрещивание двух генов между собой.  
 `check` - проверяет, получен ли нужный ген.
 
-![Иллюстрация к проекту](https://github.com/kinvekt/materials-for-repositories/blob/master/ScreenGA.png)
+![Иллюстрация к проекту](https://github.com/a-abram/genetic-algorithm/blob/master/Resources/ScreenGA.png)
